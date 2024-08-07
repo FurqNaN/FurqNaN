@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Furkan
 - 👀 I’m interested in ... : Programming Language And Cyber Security
-- 🌱 I’m currently learning ... : C# , Python , Cyber Security , Cloud Computing , IoT and Soft Skills..
+- 🌱 I’m currently learning ... : C# , Python , Cyber Security , Cloud Computing , IoT , Blockchain and Soft Skills..
 - 📫 How to reach me ... : i.f.eraslan@hotmail.com
 
 
