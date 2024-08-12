@@ -1,10 +1,13 @@
-- 👋 Hi, I’m Furkan
-- 👀 I’m interested in ... : Programming Language And Cyber Security
-- 🌱 I’m currently learning ... : C# , Python , Cyber Security , Cloud Computing , IoT , Blockchain and Soft Skills..
-- 📫 How to reach me ... : i.f.eraslan@hotmail.com
+# Hello! I'm Furkan 👋
 
+I'm a Student passionate about Programming languages and Cyber Security. I share my projects and work here on GitHub.
 
-<!---
-FurqNaN/FurqNaN is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## About Me
+
+- 🔭 I’m currently working on Python.
+- 🌱 I’m currently learning about C# , Python , Cyber Security , Cloud Compiting , IoT , Blockchain , Soft skills.
+- 📫 You can reach me at i.f.eraslan@hotmail.com .
+
+## Links
+
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ibrahim-furkan-eraslan)
