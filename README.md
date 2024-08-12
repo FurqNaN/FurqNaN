@@ -10,4 +10,4 @@ I'm a Student passionate about Programming languages and Cyber Security. I share
 
 ## Links
 
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ibrahim-furkan-eraslan)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ibrahim-furkan-eraslan)
