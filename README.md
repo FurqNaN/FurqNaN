@@ -5,7 +5,7 @@ I'm a Student passionate about Programming languages and Cyber Security. I share
 ## About Me
 
 - 🔭 I’m currently working on C# and C.
-- 🌱 I’m currently learning about C# , C , Python , Cyber Security , Cloud Compiting , IoT , Blockchain , Soft skills.
+- 🌱 I’m currently learning about C# , C , Cyber Security , Cloud Compiting , IoT , Blockchain , Soft skills.
 - 📫 You can reach me at i.f.eraslan@hotmail.com .
 
 ## Links
