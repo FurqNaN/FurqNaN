@@ -1,12 +1,22 @@
 # Hello! I'm Furkan 👋
 
-I'm a Student passionate about Programming languages and Cyber Security. I share my projects and work here on GitHub.
+Computer Engineering Student | Founder of BEUN Bilişim | HSD Vice President
 
-## About Me
+Zonguldak Bülent Ecevit Üniversitesi'nde Bilgisayar Mühendisliği öğrencisiyim. Topluluk yönetimi, organizasyon ve teknik geliştirme süreçlerinin tam merkezindeyim. Sadece kod yazmıyorum, ekosistem kuruyorum.
 
-- 🔭 I’m currently working on C# and C.
-- 🌱 I’m currently learning about C# , C , Cyber Security , Cloud Compiting , IoT , Blockchain , Soft skills.
-- 📫 You can reach me at i.f.eraslan@hotmail.com .
+⚡ Quick Bio
+Leader: BEUN Bilişim Topluluğu kurucusuyum. HSD tarafında 1.5 yıl sponsorluk liderliğinden sonra şu an Başkan Yardımcısı olarak devam ediyorum.
+
+Certified: Huawei Cloud HCCDA-AI sertifikalıyım. Bulut ve yapay zeka yan odak noktam.
+
+Interests: .NET & C# , Desktop Apps, Defense Industry ve Finansal Piyasalar.
+
+🛠 Tech & Tools
+Languages: C#, C , C++
+
+Cloud: Huawei Cloud
+
+Frameworks/Tools: Unity, Bootstrap, Git, VS Code
 
 ## Links
 
