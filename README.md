@@ -1,10 +1,9 @@
+# 🚀 Furkan | Computer Engineering Student
+
 <div align="center">
-  <img src="https://capsule-render.github.io/api?type=waving&color=auto&height=200&section=header&text=Hello,%20I'm%20Furkan!%20👋&fontSize=40" alt="Header" />
+  <h3>Founder of BEUN Bilişim | HSD Vice President</h3>
+  <p>Zonguldak Bülent Ecevit Üniversitesi'nde Bilgisayar Mühendisliği öğrencisiyim. Topluluk yönetimi, organizasyon ve teknik geliştirme süreçlerinin tam merkezindeyim. <b>Sadece kod yazmıyorum, ekosistem kuruyorum.</b></p>
 </div>
-
-### 🚀 Computer Engineering Student | Founder of BEUN Bilişim | HSD Vice President
-
-Zonguldak Bülent Ecevit Üniversitesi'nde Bilgisayar Mühendisliği öğrencisiyim. Topluluk yönetimi, organizasyon ve teknik geliştirme süreçlerinin tam merkezindeyim. **Sadece kod yazmıyorum, ekosistem kuruyorum.**
 
 ---
 
@@ -12,7 +11,7 @@ Zonguldak Bülent Ecevit Üniversitesi'nde Bilgisayar Mühendisliği öğrencisi
 
 * **👑 Leader:** BEUN Bilişim Topluluğu kurucusuyum. HSD tarafında 1.5 yıl sponsorluk liderliğinden sonra şu an Başkan Yardımcısı olarak devam ediyorum.
 * **📜 Certified:** Huawei Cloud HCCDA-AI sertifikalıyım. Bulut ve yapay zeka yan odak noktam.
-* **🎯 Interests:** .NET & C#, Desktop Apps, Defense Industry ve Finansal Piyasalar.
+* **🎯 Interests:** .NET & C#, Desktop Apps ve Finansal Piyasalar.
 
 ---
 
@@ -26,17 +25,18 @@ Zonguldak Bülent Ecevit Üniversitesi'nde Bilgisayar Mühendisliği öğrencisi
 
 ---
 
-### 📊 GitHub Stats
+### 📊 Current Focus & Projects
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FurqNaN&show_icons=true&theme=dark&locale=tr" alt="Furkan's GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FurqNaN&layout=compact&theme=dark&locale=tr" alt="Top Langs" height="150" />
-</div>
+> 💡 *Harici istatistik servislerinin çökme ihtimaline karşı aktif çalışmalarımı ve projelerimi aşağıda listeliyorum:*
+
+* **Aktif Projeler:** Unity tabanlı 3D oyun projeleri (Zonguldak kömür madeni / Varagel Tüneli temalı), Finansal veri analiz araçları.
+* **Staj / Eğitim:** ML.NET ile Akıllı Kredi Skorlama ve Risk Analizi üzerine AI tabanlı projeler.
+* **Organizasyon:** BEUN bünyesinde ICADA 2025.
 
 ---
 
 ### 🔗 Connect with me
 
-<a href="https://linkedin.com/in/furkan_eraslan" target="_blank">
+<a href="https://linkedin.com/in/ibrahim-furkan-eraslan" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
